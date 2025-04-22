@@ -33,13 +33,3 @@ The dataset `news_articles.csv` contains:
 
 ---
 
-✅ **This has:**
-- Proper section headings (`#`, `##`, `###`)  
-- Code blocks for terminal commands
-- Bullet points and tables
-- Emoji icons for a cooler look (optional but attractive for GitHub)
-
----
-
-Would you also like a **fancier version** with badges (like Python version, license, stars) if you want to make it *even more professional*? 🚀✨  
-I can generate those badges too if you want! 🎖️
